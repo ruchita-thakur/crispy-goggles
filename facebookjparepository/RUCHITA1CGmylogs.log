@@ -1,0 +1,168 @@
+2020-12-24 09:40:33.980  INFO 13504 --- [main] c.f.FacebookjparepositoryApplication     : Starting FacebookjparepositoryApplication using Java 1.8.0_161 on LAPTOP-7DH6PHPL with PID 13504 (D:\RUCHITA1\CG\facebookjparepository\target\classes started by rohit in D:\RUCHITA1\CG\facebookjparepository)
+2020-12-24 09:40:33.995  INFO 13504 --- [main] c.f.FacebookjparepositoryApplication     : No active profile set, falling back to default profiles: default
+2020-12-24 09:40:34.956  INFO 13504 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2020-12-24 09:40:35.033  INFO 13504 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 64 ms. Found 1 JPA repository interfaces.
+2020-12-24 09:40:36.144  INFO 13504 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-12-24 09:40:36.160  INFO 13504 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-12-24 09:40:36.160  INFO 13504 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2020-12-24 09:40:36.278  INFO 13504 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-12-24 09:40:36.278  INFO 13504 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2192 ms
+2020-12-24 09:40:36.540  INFO 13504 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-12-24 09:40:36.639  INFO 13504 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.25.Final
+2020-12-24 09:40:36.910  INFO 13504 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2020-12-24 09:40:37.192  INFO 13504 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-12-24 09:40:37.545  INFO 13504 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-12-24 09:40:37.585  INFO 13504 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2020-12-24 09:40:38.805  INFO 13504 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-12-24 09:40:38.820  INFO 13504 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-12-24 09:40:39.706  WARN 13504 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-12-24 09:40:39.921  INFO 13504 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-24 09:40:40.276  INFO 13504 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-12-24 09:40:40.288  INFO 13504 --- [main] c.f.FacebookjparepositoryApplication     : Started FacebookjparepositoryApplication in 6.895 seconds (JVM running for 7.536)
+2020-12-24 09:40:40.293  INFO 13504 --- [main] c.f.FacebookjparepositoryApplication     : Info log
+2020-12-24 09:40:40.293  WARN 13504 --- [main] c.f.FacebookjparepositoryApplication     : warning
+2020-12-24 09:40:40.294 ERROR 13504 --- [main] c.f.FacebookjparepositoryApplication     : Error
+2020-12-24 09:40:40.294 ERROR 13504 --- [main] c.f.FacebookjparepositoryApplication     : Fatal error
+2020-12-24 09:41:09.422  INFO 13504 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-24 09:41:09.422  INFO 13504 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-12-24 09:41:09.424  INFO 13504 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2020-12-24 09:43:22.483  INFO 5376 --- [main] c.f.FacebookjparepositoryApplication     : Starting FacebookjparepositoryApplication using Java 1.8.0_161 on LAPTOP-7DH6PHPL with PID 5376 (D:\RUCHITA1\CG\facebookjparepository\target\classes started by rohit in D:\RUCHITA1\CG\facebookjparepository)
+2020-12-24 09:43:22.487  INFO 5376 --- [main] c.f.FacebookjparepositoryApplication     : No active profile set, falling back to default profiles: default
+2020-12-24 09:43:23.313  INFO 5376 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2020-12-24 09:43:23.379  INFO 5376 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 56 ms. Found 1 JPA repository interfaces.
+2020-12-24 09:43:24.425  INFO 5376 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-12-24 09:43:24.439  INFO 5376 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-12-24 09:43:24.439  INFO 5376 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2020-12-24 09:43:24.547  INFO 5376 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-12-24 09:43:24.547  INFO 5376 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1999 ms
+2020-12-24 09:43:24.794  INFO 5376 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-12-24 09:43:24.862  INFO 5376 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.25.Final
+2020-12-24 09:43:25.059  INFO 5376 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2020-12-24 09:43:25.286  INFO 5376 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-12-24 09:43:25.589  INFO 5376 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-12-24 09:43:25.620  INFO 5376 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2020-12-24 09:43:26.713  INFO 5376 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-12-24 09:43:26.725  INFO 5376 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-12-24 09:43:27.579  WARN 5376 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-12-24 09:43:27.786  INFO 5376 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-24 09:43:28.168  INFO 5376 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-12-24 09:43:28.178  INFO 5376 --- [main] c.f.FacebookjparepositoryApplication     : Started FacebookjparepositoryApplication in 6.183 seconds (JVM running for 6.814)
+2020-12-24 09:43:28.183  INFO 5376 --- [main] c.f.FacebookjparepositoryApplication     : Info log
+2020-12-24 09:43:28.183  WARN 5376 --- [main] c.f.FacebookjparepositoryApplication     : warning
+2020-12-24 09:43:28.184 ERROR 5376 --- [main] c.f.FacebookjparepositoryApplication     : Error
+2020-12-24 09:43:28.184 ERROR 5376 --- [main] c.f.FacebookjparepositoryApplication     : Fatal error
+2020-12-24 09:43:58.124  INFO 5376 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-24 09:43:58.125  INFO 5376 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-12-24 09:43:58.128  INFO 5376 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2020-12-24 09:50:22.061  INFO 5436 --- [main] c.f.FacebookjparepositoryApplication     : Starting FacebookjparepositoryApplication using Java 1.8.0_161 on LAPTOP-7DH6PHPL with PID 5436 (D:\RUCHITA1\CG\facebookjparepository\target\classes started by rohit in D:\RUCHITA1\CG\facebookjparepository)
+2020-12-24 09:50:22.065  INFO 5436 --- [main] c.f.FacebookjparepositoryApplication     : No active profile set, falling back to default profiles: default
+2020-12-24 09:50:22.867  INFO 5436 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2020-12-24 09:50:22.933  INFO 5436 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 56 ms. Found 1 JPA repository interfaces.
+2020-12-24 09:50:24.013  INFO 5436 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-12-24 09:50:24.027  INFO 5436 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-12-24 09:50:24.028  INFO 5436 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2020-12-24 09:50:24.142  INFO 5436 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-12-24 09:50:24.142  INFO 5436 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2002 ms
+2020-12-24 09:50:24.382  INFO 5436 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-12-24 09:50:24.454  INFO 5436 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.25.Final
+2020-12-24 09:50:24.658  INFO 5436 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2020-12-24 09:50:24.896  INFO 5436 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-12-24 09:50:25.208  INFO 5436 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-12-24 09:50:25.245  INFO 5436 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2020-12-24 09:50:26.408  INFO 5436 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-12-24 09:50:26.425  INFO 5436 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-12-24 09:50:27.331  WARN 5436 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-12-24 09:50:27.540  INFO 5436 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-24 09:50:27.924  INFO 5436 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-12-24 09:50:27.942  INFO 5436 --- [main] c.f.FacebookjparepositoryApplication     : Started FacebookjparepositoryApplication in 6.361 seconds (JVM running for 7.022)
+2020-12-24 09:50:27.948  INFO 5436 --- [main] c.f.FacebookjparepositoryApplication     : Info log
+2020-12-24 09:50:27.949  WARN 5436 --- [main] c.f.FacebookjparepositoryApplication     : warning
+2020-12-24 09:50:27.950 ERROR 5436 --- [main] c.f.FacebookjparepositoryApplication     : Error
+2020-12-24 09:50:27.950 ERROR 5436 --- [main] c.f.FacebookjparepositoryApplication     : Fatal error
+2020-12-24 09:50:45.292  INFO 5436 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-24 09:50:45.293  INFO 5436 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-12-24 09:50:45.296  INFO 5436 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2020-12-24 10:07:58.523  INFO 20828 --- [main] c.f.FacebookjparepositoryApplication     : Starting FacebookjparepositoryApplication using Java 1.8.0_161 on LAPTOP-7DH6PHPL with PID 20828 (D:\RUCHITA1\CG\facebookjparepository\target\classes started by rohit in D:\RUCHITA1\CG\facebookjparepository)
+2020-12-24 10:07:58.527  INFO 20828 --- [main] c.f.FacebookjparepositoryApplication     : No active profile set, falling back to default profiles: default
+2020-12-24 10:07:59.366  INFO 20828 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2020-12-24 10:07:59.429  INFO 20828 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 52 ms. Found 1 JPA repository interfaces.
+2020-12-24 10:08:00.613  INFO 20828 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-12-24 10:08:00.627  INFO 20828 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-12-24 10:08:00.627  INFO 20828 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2020-12-24 10:08:00.734  INFO 20828 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-12-24 10:08:00.735  INFO 20828 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2144 ms
+2020-12-24 10:08:00.982  INFO 20828 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-12-24 10:08:01.060  INFO 20828 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.25.Final
+2020-12-24 10:08:01.265  INFO 20828 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2020-12-24 10:08:01.508  INFO 20828 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-12-24 10:08:01.845  INFO 20828 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-12-24 10:08:01.875  INFO 20828 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2020-12-24 10:08:02.958  INFO 20828 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-12-24 10:08:02.969  INFO 20828 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-12-24 10:08:03.806  WARN 20828 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-12-24 10:08:04.007  INFO 20828 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-24 10:08:04.452  INFO 20828 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-12-24 10:08:04.471  INFO 20828 --- [main] c.f.FacebookjparepositoryApplication     : Started FacebookjparepositoryApplication in 6.434 seconds (JVM running for 7.097)
+2020-12-24 10:08:04.477  INFO 20828 --- [main] c.f.FacebookjparepositoryApplication     : Info log
+2020-12-24 10:08:04.478  WARN 20828 --- [main] c.f.FacebookjparepositoryApplication     : warning
+2020-12-24 10:08:04.479 ERROR 20828 --- [main] c.f.FacebookjparepositoryApplication     : Error
+2020-12-24 10:08:04.480 ERROR 20828 --- [main] c.f.FacebookjparepositoryApplication     : Fatal error
+2020-12-24 10:08:42.087  INFO 20828 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-24 10:08:42.088  INFO 20828 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-12-24 10:08:42.090  INFO 20828 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2020-12-24 10:13:49.928  INFO 12128 --- [main] c.f.FacebookjparepositoryApplication     : Starting FacebookjparepositoryApplication using Java 1.8.0_161 on LAPTOP-7DH6PHPL with PID 12128 (D:\RUCHITA1\CG\facebookjparepository\target\classes started by rohit in D:\RUCHITA1\CG\facebookjparepository)
+2020-12-24 10:13:49.931  INFO 12128 --- [main] c.f.FacebookjparepositoryApplication     : No active profile set, falling back to default profiles: default
+2020-12-24 10:13:50.756  INFO 12128 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2020-12-24 10:13:50.821  INFO 12128 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 53 ms. Found 1 JPA repository interfaces.
+2020-12-24 10:13:51.862  INFO 12128 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-12-24 10:13:51.876  INFO 12128 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-12-24 10:13:51.877  INFO 12128 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2020-12-24 10:13:51.983  INFO 12128 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-12-24 10:13:51.984  INFO 12128 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1983 ms
+2020-12-24 10:13:52.222  INFO 12128 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-12-24 10:13:52.292  INFO 12128 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.25.Final
+2020-12-24 10:13:52.492  INFO 12128 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2020-12-24 10:13:52.729  INFO 12128 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-12-24 10:13:52.924  INFO 12128 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-12-24 10:13:52.952  INFO 12128 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2020-12-24 10:13:54.029  INFO 12128 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-12-24 10:13:54.042  INFO 12128 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-12-24 10:13:54.917  WARN 12128 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-12-24 10:13:55.122  INFO 12128 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-24 10:13:55.504  INFO 12128 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-12-24 10:13:55.519  INFO 12128 --- [main] c.f.FacebookjparepositoryApplication     : Started FacebookjparepositoryApplication in 6.082 seconds (JVM running for 6.726)
+2020-12-24 10:13:55.523  INFO 12128 --- [main] c.f.FacebookjparepositoryApplication     : Info log
+2020-12-24 10:13:55.524  WARN 12128 --- [main] c.f.FacebookjparepositoryApplication     : warning
+2020-12-24 10:13:55.525 ERROR 12128 --- [main] c.f.FacebookjparepositoryApplication     : Error
+2020-12-24 10:13:55.525 ERROR 12128 --- [main] c.f.FacebookjparepositoryApplication     : Fatal error
+2020-12-24 10:14:09.636  INFO 12128 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-24 10:14:09.637  INFO 12128 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-12-24 10:14:09.639  INFO 12128 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2020-12-24 10:19:42.715  INFO 18912 --- [main] c.f.FacebookjparepositoryApplication     : Starting FacebookjparepositoryApplication using Java 1.8.0_161 on LAPTOP-7DH6PHPL with PID 18912 (D:\RUCHITA1\CG\facebookjparepository\target\classes started by rohit in D:\RUCHITA1\CG\facebookjparepository)
+2020-12-24 10:19:42.719  INFO 18912 --- [main] c.f.FacebookjparepositoryApplication     : No active profile set, falling back to default profiles: default
+2020-12-24 10:19:43.537  INFO 18912 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2020-12-24 10:19:43.602  INFO 18912 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 54 ms. Found 1 JPA repository interfaces.
+2020-12-24 10:19:44.596  INFO 18912 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-12-24 10:19:44.614  INFO 18912 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-12-24 10:19:44.615  INFO 18912 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2020-12-24 10:19:44.719  INFO 18912 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-12-24 10:19:44.719  INFO 18912 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1937 ms
+2020-12-24 10:19:44.939  INFO 18912 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-12-24 10:19:45.012  INFO 18912 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.25.Final
+2020-12-24 10:19:45.197  INFO 18912 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2020-12-24 10:19:45.427  INFO 18912 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-12-24 10:19:45.614  INFO 18912 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-12-24 10:19:45.640  INFO 18912 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2020-12-24 10:19:46.729  INFO 18912 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-12-24 10:19:46.742  INFO 18912 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-12-24 10:19:47.610  WARN 18912 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-12-24 10:19:47.823  INFO 18912 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-24 10:19:48.204  INFO 18912 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-12-24 10:19:48.218  INFO 18912 --- [main] c.f.FacebookjparepositoryApplication     : Started FacebookjparepositoryApplication in 5.981 seconds (JVM running for 6.792)
+2020-12-24 10:19:48.221  INFO 18912 --- [main] c.f.FacebookjparepositoryApplication     : Info log
+2020-12-24 10:19:48.222  WARN 18912 --- [main] c.f.FacebookjparepositoryApplication     : warning
+2020-12-24 10:19:48.222 ERROR 18912 --- [main] c.f.FacebookjparepositoryApplication     : Error
+2020-12-24 10:19:48.223 ERROR 18912 --- [main] c.f.FacebookjparepositoryApplication     : Fatal error
+2020-12-24 10:20:07.273  INFO 18912 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-24 10:20:07.273  INFO 18912 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-12-24 10:20:07.276  INFO 18912 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
